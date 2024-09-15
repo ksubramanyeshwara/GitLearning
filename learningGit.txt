@@ -1,1 +1,1 @@
-Hello All, I am learning Git and GitHub!
+Hello All, I am learning Git and GitHub! and learning about conflict
